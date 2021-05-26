@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tzvi-tenenbaum/static/css/main.ccfdb60d.chunk.css",
+    "main.js": "/tzvi-tenenbaum/static/js/main.dc4b13d3.chunk.js",
+    "main.js.map": "/tzvi-tenenbaum/static/js/main.dc4b13d3.chunk.js.map",
+    "runtime-main.js": "/tzvi-tenenbaum/static/js/runtime-main.f212bca4.js",
+    "runtime-main.js.map": "/tzvi-tenenbaum/static/js/runtime-main.f212bca4.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/tzvi-tenenbaum/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.de1ea838.chunk.js": "/tzvi-tenenbaum/static/js/2.de1ea838.chunk.js",
+    "static/js/2.de1ea838.chunk.js.map": "/tzvi-tenenbaum/static/js/2.de1ea838.chunk.js.map",
+    "static/js/3.dd552ca5.chunk.js": "/tzvi-tenenbaum/static/js/3.dd552ca5.chunk.js",
+    "static/js/3.dd552ca5.chunk.js.map": "/tzvi-tenenbaum/static/js/3.dd552ca5.chunk.js.map",
+    "index.html": "/tzvi-tenenbaum/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/tzvi-tenenbaum/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.ccfdb60d.chunk.css.map": "/tzvi-tenenbaum/static/css/main.ccfdb60d.chunk.css.map",
+    "static/js/2.de1ea838.chunk.js.LICENSE.txt": "/tzvi-tenenbaum/static/js/2.de1ea838.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f212bca4.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.de1ea838.chunk.js",
+    "static/css/main.ccfdb60d.chunk.css",
+    "static/js/main.dc4b13d3.chunk.js"
+  ]
+}
